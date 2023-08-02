@@ -6,12 +6,12 @@
 
 /*---number---*/
 
-// let sayi1='10';
-// let sayi2='20';
-// let toplam= Number (sayi1) + Number (sayi2);
-// let toplam = Number(sayi1) + Number(sayi2);
-// let toplam =
-// console.log(toplam);
+let sayi1='10';
+let sayi2='20';
+let toplam = Number(sayi1) + Number(sayi2) ;
+console.log(toplam);
+
+
 
 
 /*---Boolen---*/
