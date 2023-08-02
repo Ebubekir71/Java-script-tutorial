@@ -10,5 +10,5 @@ console.log("Sunum yapacak Kisiler", müdürAdi, sinifBaskani);
 
 const maas=7000;
 const zam=0.1;
-let maasliZam= maas+maas*zam
+let maasliZam= maas + maas * zam;
 console.log(maasliZam);
