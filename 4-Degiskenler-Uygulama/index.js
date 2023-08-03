@@ -40,3 +40,16 @@ console.log(parseInt(esonuc));
 console.log(yas2);
 console.log(esonuc>45);
 console.log(esonuc<45);
+
+let ogr1 = 'Mert Demir';
+let günceltarih = new Date() .getFullYear();
+let ogr1dogumtarihi =2001
+let ogr1yasi = günceltarih - ogr1dogumtarihi;
+console.log(ogr1yasi);
+let ogr1dersnotu1 = 100;
+let ogr1dersnotu2 = 90;
+let ogr1dersnotu3 = 10;
+let ogr1dersortalamasi = (ogr1dersnotu1+ogr1dersnotu2+ogr1dersnotu3)/3;
+console.log(parseInt(ogr1dersortalamasi));
+console.log(ogr1dersortalamasi > 45);
+console.log(ogr1dersortalamasi <45);
